@@ -1,7 +1,9 @@
 # Web Pendaftaran Meditation Workshop 2013
 ![Meditation Workshop](/../screenshoot/screenshoots/intro.png?raw=true "Meditation Workshop")
 
-Website Pendaftaran/Registrasi yang digunakan untuk event Meditation Workshop 2013. Project ini dapat anda modifikasi untuk keperluan event serupa/event yang membutuhkan registrasi.
+Website Pendaftaran/Registrasi yang digunakan untuk event Meditation Workshop 2013. 
+
+Project ini dapat anda modifikasi untuk keperluan event serupa/event yang membutuhkan registrasi seperti seminar, workshop, dll.
 
 ## Fitur
 - Menampilkan artikel/news update dari panitia
