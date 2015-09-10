@@ -1,0 +1,106 @@
+/*--------------------------------------------------------------------------------------------------
+									MEDITATION WORKSHOP WEBSITE
+								     		BUILD: x13701
+								     
+								       www.andresusanto.com
+								     CREATED BY ANDRE SUSANTO
+								             (C) 2013
+----------------------------------------------------------------------------------------------------*/
+
+a:link {
+	color: #39F;
+	text-decoration: none;
+}
+a:visited {
+	color: #39F;
+	text-decoration: none;
+}
+a:hover {
+	color: #39F;
+	text-decoration: underline;
+}
+a:active {
+	color: #39F;
+	text-decoration: none;
+}
+
+.content{margin:0; width:563px; height:320px; padding:10; overflow:auto; -webkit-border-radius:3px; -moz-border-radius:3px; border-radius:3px; float:left;}
+#content_2{color:#333; background:url(images/content_23.png);}
+
+#loader2 { display: none; }
+#loader { display: none; }
+
+.slideshow img { padding: 7px; border: 1px solid #ccc; background-color: #eee; -moz-border-radius: 8px;
+border-radius: 8px;}
+.menu a:visited {
+	text-decoration: none;
+}
+
+.menu a:hover{
+	color:#FFF;
+	background:#0CF;
+	text-decoration: none;	
+}
+
+.menu a{
+	padding:4px;
+	color:#000;
+	font-family:Arial, Helvetica, sans-serif;
+	font-weight:bold;
+	display: inline-block;
+	text-decoration: none;
+}
+
+html {
+	background:url(images/background.jpg);
+	background-size:100% 100%;
+	background-color: #ADE9F4;
+}
+
+body,td,th {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	overflow-x:hidden;
+}
+
+input[type=text]
+{
+    background-color: #FFF;
+    border:solid 1px #000;
+    color: #979797;
+    height: 28px;
+    padding-left:10px;
+    width: 300px;
+    box-shadow: 0.5px 0.5px 0.5px 0.5px #828181 inset;
+}
+textarea
+{
+    background-color: #FFF;
+    border:solid 1px #000;
+    color: #979797;
+    height: 130px;
+    padding-left:10px;
+    width: 300px;
+    box-shadow: 0.5px 0.5px 0.5px 0.5px #828181 inset;
+	border: 0;
+    border-radius:5px;
+    font-family: Sansation,Arial;
+}
+input[type=submit]
+{
+    background-color: #1E1E1E;
+    color: #979797;
+    height: 24px;
+    width: 103px;
+    color: #bbbbbb;
+    text-transform:uppercase;
+    box-shadow:-1px 2px #6E6B6A inset;
+	font-weight:bold;
+}
+
+input[type=text], input[type=submit]
+{
+    border: 0;
+    border-radius:5px;
+    font-family: Sansation,Arial;
+}
